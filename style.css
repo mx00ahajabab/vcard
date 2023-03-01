@@ -56,7 +56,7 @@ label{
 #inp1{
     width: 100%;
     transition: all 2s;
-    transition-delay: 1s;
+    transition-delay: 3ms;
     transition-timing-function: ease;
 }
 
